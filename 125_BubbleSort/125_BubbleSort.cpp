@@ -39,7 +39,8 @@ void bubbleSortArray() {
 		}
 		pass = pass + 1;
 
-	} while (pass <= n - 1);
+	} while (pass <= n - 1); 
+
 }
 
 
